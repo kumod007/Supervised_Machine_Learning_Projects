@@ -1,1 +1,1 @@
-# Supervised_Machine_Learning_Project
+# Supervised_Machine_Learning_Projects
